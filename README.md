@@ -1,10 +1,10 @@
-
-
-<div align="center">
+<p align="center">
 
 ![Header Banner](https://capsule-render.vercel.app/api?type=waving&color=0:11a861,100:04e76f&height=300&section=header&text=Riyad%20Ahsan&fontSize=72&animation=fadeIn&desc=Backend%20Engineer%20@%20Selopia&descAlignY=68&descAlign=50)
 
-<p>
+</p>
+
+<p align="center">
 
 <a href="mailto:riyad.ahsan4516@gmail.com">
   <img src="https://img.shields.io/badge/Email-c14438?style=flat&logo=gmail&logoColor=white" alt="Email"/>
@@ -33,7 +33,7 @@ Backend engineer at **Selopia** building scalable microservices and APIs. I love
 
 ### Backend & Tools
 <img src="https://skillicons.dev/icons?icons=nodejs,express,nestjs,fastify&perline=4&nolink=true&size=15" />
-<img src="https://skillicons.dev/icons?icons=websocket,agora,npm,yarn&perline=5&nolink=true&size=15" />
+<img src="https://skillicons.dev/icons?icons=npm,yarn&perline=5&nolink=true&size=15" />
 
 ### Databases & ORMs
 <img src="https://skillicons.dev/icons?icons=mysql,postgresql,mongodb,cassandra,scylladb,redis&perline=6&nolink=true&size=15" />
@@ -43,9 +43,14 @@ Backend engineer at **Selopia** building scalable microservices and APIs. I love
 <img src="https://skillicons.dev/icons?icons=react,html,css,pug,ejs&perline=5&nolink=true&size=15" />
 
 ### Additional Tools
-<img src="https://img.shields.io/badge/HapiJS-f9b206?style=flat&logo=hapi&logoColor=white&height=15" />
-<img src="https://img.shields.io/badge/SailsJS-3badcf?style=flat&logo=sails&logoColor=white&height=15" />
-<img src="https://img.shields.io/badge/Crates-dc5757?style=flat&height=15" />
+<p>
+  <img src="https://img.shields.io/badge/HapiJS-f9b206?style=flat&logo=hapi&logoColor=white" alt="HapiJS" />
+  <img src="https://img.shields.io/badge/SailsJS-3badcf?style=flat&logo=sails&logoColor=white" alt="SailsJS" />
+  <img src="https://img.shields.io/badge/WebSocket-010101?style=flat&logo=socketdotio&logoColor=white" alt="WebSocket" />
+  <img src="https://img.shields.io/badge/ScyllaDB-6CD5E7?style=flat&logo=scylladb&logoColor=black" alt="ScyllaDB" />
+  <img src="https://img.shields.io/badge/EJS-B4CA65?style=flat&logo=ejs&logoColor=black" alt="EJS" />
+  <img src="https://img.shields.io/badge/Crates-dc5757?style=flat" alt="Crates" />
+</p>
 
 ---
 
@@ -73,6 +78,6 @@ Backend engineer at **Selopia** building scalable microservices and APIs. I love
 
 ---
 
-<img src="https://komarev.com/ghpvc/?username=RiyadAhsan4516&label=Profile%20views&color=0e75b6&style=flat" />
-
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=RiyadAhsan4516&label=Profile%20views&color=0e75b6&style=flat" />
+</p>
