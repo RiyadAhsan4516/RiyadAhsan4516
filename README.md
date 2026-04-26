@@ -43,7 +43,11 @@ Backend engineer at **Selopia** building scalable microservices and APIs. I love
   </tr>
   <tr>
     <td><strong>ORMs & ODMs</strong></td>
-    <td>Prisma · Sequelize · Mongoose</td>
+    <td>Prisma · TypeOrm · Sequelize · Waterline · Mongoose</td>
+  </tr>
+  <tr>
+    <td><strong>Message Queues</strong></td>
+    <td>Rabbitmq · Kafka · Bullmq</td>
   </tr>
   <tr>
     <td><strong>Frontend & Templates</strong></td>
@@ -51,7 +55,7 @@ Backend engineer at **Selopia** building scalable microservices and APIs. I love
   </tr>
   <tr>
     <td><strong>Realtime & APIs</strong></td>
-    <td>WebSocket · Socket.io · REST APIs · Microservices</td>
+    <td>WebSocket · Socket.io · REST APIs · Microservices · Agora</td>
   </tr>
   <tr>
     <td><strong>Package & Tooling</strong></td>
