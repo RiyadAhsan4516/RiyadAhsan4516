@@ -35,7 +35,7 @@ Backend engineer at **Selopia** building scalable microservices and APIs. I love
   </tr>
   <tr>
     <td><strong>Backend</strong></td>
-    <td>Node.js · Express.js · NestJS · Fastify · HapiJS · SailsJS</td>
+    <td>Node.js · Express.js · NestJS · Fastify · HapiJS · SailsJS · Rocket</td>
   </tr>
   <tr>
     <td><strong>Databases</strong></td>
