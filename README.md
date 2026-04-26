@@ -28,29 +28,36 @@ Backend engineer at **Selopia** building scalable microservices and APIs. I love
 
 ## 💻 Tech Stack
 
-### Languages
-<img src="https://skillicons.dev/icons?icons=typescript,javascript,python,rust&perline=4&nolink=true&size=15" />
-
-### Backend & Tools
-<img src="https://skillicons.dev/icons?icons=nodejs,express,nestjs,fastify&perline=4&nolink=true&size=15" />
-<img src="https://skillicons.dev/icons?icons=npm,yarn&perline=5&nolink=true&size=15" />
-
-### Databases & ORMs
-<img src="https://skillicons.dev/icons?icons=mysql,postgresql,mongodb,cassandra,scylladb,redis&perline=6&nolink=true&size=15" />
-<img src="https://skillicons.dev/icons?icons=prisma,sequelize,mongoose&perline=3&nolink=true&size=15" />
-
-### Frontend & Templates
-<img src="https://skillicons.dev/icons?icons=react,html,css,pug,ejs&perline=5&nolink=true&size=15" />
-
-### Additional Tools
-<p>
-  <img src="https://img.shields.io/badge/HapiJS-f9b206?style=flat&logo=hapi&logoColor=white" alt="HapiJS" />
-  <img src="https://img.shields.io/badge/SailsJS-3badcf?style=flat&logo=sails&logoColor=white" alt="SailsJS" />
-  <img src="https://img.shields.io/badge/WebSocket-010101?style=flat&logo=socketdotio&logoColor=white" alt="WebSocket" />
-  <img src="https://img.shields.io/badge/ScyllaDB-6CD5E7?style=flat&logo=scylladb&logoColor=black" alt="ScyllaDB" />
-  <img src="https://img.shields.io/badge/EJS-B4CA65?style=flat&logo=ejs&logoColor=black" alt="EJS" />
-  <img src="https://img.shields.io/badge/Crates-dc5757?style=flat" alt="Crates" />
-</p>
+<table>
+  <tr>
+    <td><strong>Languages</strong></td>
+    <td>TypeScript · JavaScript · Python · Rust</td>
+  </tr>
+  <tr>
+    <td><strong>Backend</strong></td>
+    <td>Node.js · Express.js · NestJS · Fastify · HapiJS · SailsJS</td>
+  </tr>
+  <tr>
+    <td><strong>Databases</strong></td>
+    <td>PostgreSQL · MySQL · MongoDB · Cassandra · ScyllaDB · Redis</td>
+  </tr>
+  <tr>
+    <td><strong>ORMs & ODMs</strong></td>
+    <td>Prisma · Sequelize · Mongoose</td>
+  </tr>
+  <tr>
+    <td><strong>Frontend & Templates</strong></td>
+    <td>React · HTML · CSS · Pug · EJS</td>
+  </tr>
+  <tr>
+    <td><strong>Realtime & APIs</strong></td>
+    <td>WebSocket · Socket.io · REST APIs · Microservices</td>
+  </tr>
+  <tr>
+    <td><strong>Package & Tooling</strong></td>
+    <td>NPM · Yarn · Rust Crates</td>
+  </tr>
+</table>
 
 ---
 
